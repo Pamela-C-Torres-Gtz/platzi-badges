@@ -1,0 +1,21 @@
+.Navbar {
+    width: 100%;
+    padding: 0.5rem 0;
+    background: rgb(33,78,130);
+    background: radial-gradient(circle, rgba(33,78,130,1) 0%, rgba(184,89,185,1) 87%);
+}
+
+.Navbar_brand {
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+
+.Navbar_brand:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.Navbar_brand-logo {
+    margin-right: 0.5rem;
+}
